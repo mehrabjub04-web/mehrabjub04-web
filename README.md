@@ -2,6 +2,8 @@
 
 🎓 CSE undergraduate at **Chittagong University of Engineering & Technology (CUET), Bangladesh**.
 
+🌐 **[Visit my personal portfolio](https://mehrabjub.netlify.app/)** — learn more about my background, interests, projects, and activities beyond academics.
+
 I'm building a strong foundation in programming and computer engineering, with a particular interest in how software connects to hardware.
 
 ## 🔧 Interests
@@ -25,6 +27,7 @@ I'm building a strong foundation in programming and computer engineering, with a
 To strengthen my fundamentals, build practical projects, and gradually explore research in computer engineering and hardware design.
 
 ## 🔗 Find me
+- Portfolio: [mehrabjub.netlify.app](https://mehrabjub.netlify.app/)
 - GitHub: [@mehrabjub04-web](https://github.com/mehrabjub04-web)
 
 ---
